@@ -58,13 +58,12 @@ Visit **[finance-assistant.streamlit.app](https://your-ai-personal-finance-assis
 
 ## 🧠 How Codex Contributed to The Final Result
 
-**Session IDs:** `019f626e-7c60-7e02-a292-5d99da820cc1` · `019f6d03-421b-7d93-9e54-8dc8f299fce1`
-
-- **Engineering** - Codex helped to write the code behind the Streamlit app and polish the user interface.
+- **Product development** - Codex turn the initial idea into a finished personal-finance product.
+- **Engineering** - Codex helped to write and improve the code behind the Streamlit app and detect the bugs.
 - **Accuracy & consistency** - Codex tracked changes across code and documentation, keeping updates synchronized, and reducing the risk of inconsistencies as the project evolved.
 - **App design** - Codex supported continuous design iteration across the dashboard layout, charts, responsive desktop/mobile experience.
 - **Demo data** - Codex helped to create a realistic demo dataset to showcase features without using sensitive data.
-- **Project guidance** - Codex acted as a practical reviewer, keeping the app, demo video, and README aligned with the hackathon requirements.
+- **Project delivery** - Codex helped prepare the README, licence, repository structure, etc.
 
 ## 🏆 How GPT-5.6 Shaped the Product
 
