@@ -1,0 +1,13 @@
+[server]
+maxUploadSize = 5
+
+[theme]
+base = "dark"
+font = "sans serif"
+primaryColor = "#7C3AED"
+backgroundColor = "#0B0714"
+secondaryBackgroundColor = "#1B1229"
+textColor = "#F8F7FF"
+borderColor = "#3C2E5A"
+chartCategoricalColors = ["#7C3AED", "#A78BFA", "#C4B5FD", "#E9D5FF", "#D946EF"]
+baseRadius = "0.75rem"
