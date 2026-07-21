@@ -497,7 +497,7 @@ if cloud_api_key:
 
 st.markdown(
     "<p style='font-size:0.95rem;font-weight:500;letter-spacing:0.02em;"
-    "opacity:0.7;margin:0 0 0.35rem;'>YOUR PERSONAL FINANCE ASSISTANT</p>",
+    "opacity:0.7;margin:0 0 0.35rem;'>YOUR AI PERSONAL FINANCE ASSISTANT</p>",
     unsafe_allow_html=True,
 )
 st.title("See the patterns behind your spending", anchor=False)
