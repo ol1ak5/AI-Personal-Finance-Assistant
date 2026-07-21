@@ -54,7 +54,7 @@ MOCK_LLM=true uv run pytest tests/test_llm.py::test_summary_with_question_reject
 
 ### Deployed Instance
 
-Visit **[finance-assistant.streamlit.app](https://your-ai-personal-finance-assistant.streamlit.app)**. The app redeploys automatically when changes are pushed to `main`. Its `OPENAI_API_KEY` is securely configured in Streamlit Cloud Secrets.
+Visit **[your-ai-finance-assistant.streamlit.app](https://your-ai-personal-finance-assistant.streamlit.app)**. The app redeploys automatically when changes are pushed to `main`. Its `OPENAI_API_KEY` is securely configured in Streamlit Cloud Secrets.
 
 ## 🧠 How Codex Contributed to The Final Result
 
