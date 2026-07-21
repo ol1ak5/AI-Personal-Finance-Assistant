@@ -58,8 +58,8 @@ Visit **[finance-assistant.streamlit.app](https://your-ai-personal-finance-assis
 
 ## 🧠 How Codex Contributed to The Final Result
 
-- **Product development** - Codex turn the initial idea into a finished personal-finance product.
-- **Engineering** - Codex helped to write and improve the code behind the Streamlit app and detect the bugs.
+- **Product development** - Codex turned the initial idea into a finished personal-finance product.
+- **Engineering** - Codex helped to write and improve the code behind the Streamlit app, and detect the bugs.
 - **Accuracy & consistency** - Codex tracked changes across code and documentation, keeping updates synchronized, and reducing the risk of inconsistencies as the project evolved.
 - **App design** - Codex supported continuous design iteration across the dashboard layout, charts, responsive desktop/mobile experience.
 - **Demo data** - Codex helped to create a realistic demo dataset to showcase features without using sensitive data.
@@ -75,13 +75,13 @@ Visit **[finance-assistant.streamlit.app](https://your-ai-personal-finance-assis
 
 ## 🎥 Demo Video
 
-📺 **[Watch the Demo on YouTube]()**
+📺 **[Watch the Demo on YouTube](https://youtu.be/_VLKwRPPVik)**
 
 The demo covers:
 - The hidden-spending problem and why it matters
 - How Codex was used in the development workflow
 - Why pairing statistical clustering with GPT-5.6 is the right approach
-- Live walkthrough with synthetic demo data (patterns, merchant habits, AI summary)
+- Live walkthrough with synthetic demo data (patterns, spending habits, AI summary)
 
 ## 🧩 Built With
 
