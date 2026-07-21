@@ -9,7 +9,7 @@ Open the [live app](https://your-ai-personal-finance-assistant.streamlit.app) to
 
 ## 🎯 The Problem
 
-Bank statements hide more than it shows. Behind hundreds of line items are hidden spending patterns – subscriptions quietly stacking up, habits that repeat without you noticing, and shifts in spending you'd never catch scrolling through a list.
+Bank statements hide more than it shows. Behind hundreds of line items lie hidden spending patterns such as subscriptions quietly stacking up, habits that repeat without you noticing, and shifts in spending you'd never catch scrolling through a list.
 
 ## 💡 The Solution
 
